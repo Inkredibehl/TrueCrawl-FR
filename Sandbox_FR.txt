@@ -1,0 +1,24 @@
+Sandbox_FR = {
+	Sandbox_TrueCrawl = "True Crawl",
+	Sandbox_TrueCrawl_ZombieRadius = "Rayon des Zombies",
+	Sandbox_TrueCrawl_ZombieRadius_tooltip = "Cette valeur contrôle le rayon de vue des zombies lorsque le joueur est en train de ramper. Elle va de 1 (extrêmement petit) à 20 (extrêmement loin). La valeur par défaut est 5 (rayon moyen). Ma recommandation est de la maintenir entre 5 et 10 pour une expérience de jeu plus immersive.",
+
+	Sandbox_TrueCrawl_StealhModeEnable = "Mode Furtif",
+	Sandbox_TrueCrawl_StealhModeEnable_tooltip = "Active ou désactive le Mode Furtif. S'il est désactivé, seul le système de discrétion standard sera utilisé. [Par défaut, Vrai].",
+
+	Sandbox_TrueCrawl_MoodleEnable = "Indicateur du Moodle de Discrétion",
+	Sandbox_TrueCrawl_MoodleEnable_tooltip = "Active ou désactive l'indicateur du Moodle de Discrétion. (Fonctionne UNIQUEMENT si le Mode Furtif est activé!) [Par défaut, Vrai].",
+
+	Sandbox_TrueCrawl_CrawlUnderVehiclesEnable = "Ramper Sous les Véhicules",
+	Sandbox_TrueCrawl_CrawlUnderVehiclesEnable_tooltip = "Active ou désactive la capacité de ramper sous les véhicules. (VOUS DEVEZ ÊTRE EN TRAIN DE RAMPER!) [Par défaut, Vrai, Touche par défaut est Maj].",
+		
+	Sandbox_TrueCrawl_RealisticEndurance = "Endurance Réaliste",
+	Sandbox_TrueCrawl_RealisticEndurance_tooltip = "Active ou désactive le mode d'Endurance Réaliste. Ce mode améliore l'immersion dans le jeu en limitant la durée pendant laquelle vous pouvez ramper. [Par défaut, Vrai].",
+
+	Sandbox_TrueCrawl_CancelCrawlWhenSpotted = "Arrêter de Ramper en Cas de Détection",
+	Sandbox_TrueCrawl_CancelCrawlWhenSpotted_tooltip = "Désactive automatiquement la position de ramper lorsque vous êtes repéré par des zombies. [Par défaut, Faux].",
+		
+	Sandbox_TrueCrawl_StealhModeServer = "Activer le Mode Serveur",
+	Sandbox_TrueCrawl_StealhModeServer_tooltip = "Utilisez cette option uniquement si vous hébergez un serveur local ou dédié. (Pour éviter les problèmes). [Par défaut, Faux].",
+}
+
